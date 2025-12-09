@@ -1,14 +1,8 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.iqsd.wahy",
-      "sha256_cert_fingerprints": [
-        "A2:52:77:30:60:58:A8:12:35:E5:A9:E1:C6:13:96:37:37:A5:68:50:88:E2:24:D8:0C:5E:20:96:4D:21:49:5F"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.iqsd.wahy",
+        "sha256_cert_fingerprints": ["36:F1:22:7F:7F:A4:15:52:67:FB:52:2A:A5:01:B8:A1:29:F5:13:55:26:69:23:A8:23:FB:D0:33:14:E3:7F:C3"]
+      }
+    }]
