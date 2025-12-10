@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.iqsd.wahy",
-        "sha256_cert_fingerprints": ["50:A6:9F:95:48:B7:1C:6D:9E:34:12:19:C7:2A:CA:BF:92:81:E3:87:FE:82:F6:17:E1:B7:66:44:52:C3:87:6A"]
+        "sha256_cert_fingerprints": ["AF:4C:8A:C2:ED:C3:9A:A5:A3:9E:10:C7:56:DB:4C:C4:97:40:6B:7F:A8:E4:E1:52:26:CC:79:88:15:75:52:AA"]
       }
     }]
