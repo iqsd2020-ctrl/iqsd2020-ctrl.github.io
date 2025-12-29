@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.iqsd.wahy",
-        "sha256_cert_fingerprints": ["AF:4C:8A:C2:ED:C3:9A:A5:A3:9E:10:C7:56:DB:4C:C4:97:40:6B:7F:A8:E4:E1:52:26:CC:79:88:15:75:52:AA"]
-      }
-    }]
